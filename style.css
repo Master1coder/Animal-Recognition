@@ -1,0 +1,25 @@
+body{
+    background: black;
+}
+
+.one{
+    width: 300px;
+}
+
+button{
+    margin-top: 20px;
+}
+
+#result_label{
+    color: white;
+    font-weight: bolder;
+}
+
+h2{
+    color: yellow;
+    font-weight: bolder;
+}
+
+span{
+    margin: 50px;
+}
